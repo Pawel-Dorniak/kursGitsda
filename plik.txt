@@ -1,4 +1,2 @@
 zmiana w pliku.
 inna wersja tego pliku nadpisze poprzednia
-
-dodanie nowej, eksperymentalnej funkcjonalności.
